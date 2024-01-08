@@ -5,4 +5,8 @@
 `Home Page`
 ![HomePage](./Screenshot/Screenshot%20(107).png)
 `View Data`
-![ViewData](./Screenshot/Screenshot%20(109).png)
+![InsertData](./Screenshot/Screenshot%20(109).png)
+![InsertData](./Screenshot/Screenshot%20(110).png)
+`Update Data`
+![UpdateData](./Screenshot/Screenshot%20(111).png)
+![UpdateData](./Screenshot/Screenshot%20(112).png)
